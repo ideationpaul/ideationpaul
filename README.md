@@ -2,9 +2,7 @@
 
 **Full-Stack Developer · Founder · Builder**
 
-I bridge the gap between business strategy and technical execution — from zero-to-one product builds to scalable full-stack platforms. With a background in **Business Administration**, **Venture Capital**, and **Computer Science**, I don't just write code — I build things that matter.
-
-> *"Give me a problem, I'll ship a solution."*
+I bridge the gap between business strategy and technical execution, from zero-to-one product builds to scalable full-stack platforms. With a background in Business Administration (University of Mannheim) and Computer Science (TU Berlin), and hands-on experience in startups and venture capital, I don't just write code. I build things that matter.
 
 ---
 
@@ -12,7 +10,7 @@ I bridge the gap between business strategy and technical execution — from zero
 
 - **Full-Stack Development** — end-to-end product ownership, from architecture to deployment
 - **AI Integration** — building intelligent, production-ready apps powered by LLMs and modern AI APIs
-- **Startup Building** — founded companies, assembled teams, and scaled products
+- **Startup Building** — founded companies and scaled products from zero to one
 - **Technical Strategy** — helping startups and companies make the right technology decisions early
 
 I'm language-agnostic and leverage AI to move fast across any stack. That said, my current core toolkit:
@@ -34,26 +32,23 @@ I'm language-agnostic and leverage AI to move fast across any stack. That said, 
 ## 🏗️ Selected Projects
 
 ### 🤖 [Pfiffig](https://github.com/paulstephan) — AI Companion for Non-Digital Natives
-An iOS & Android AI support agent built on a custom multilevel text processing stack. Designed for elderly users who aren't digital natives, Pfiffig makes everyday AI genuinely accessible — while giving caretakers a transparent activity dashboard to monitor and support their loved ones.
+An iOS and Android AI support agent built on a custom multilevel text processing stack. Designed for elderly users who aren't digital natives, Pfiffig makes everyday AI genuinely accessible while giving caretakers a transparent activity dashboard to monitor and support their loved ones.
 
 ---
 
-### 🎯 [five degrees](https://github.com/paulstephan) — Platform for Europe's Top Startup Talent Network
-Architected and built the complete digital infrastructure for Europe's most curated startup-talent matching company. Delivered end-to-end: from intelligent automation pipelines to a multi-role full-stack platform — supporting founders, investors, and talent at scale.
+### 🎯 [five degrees](https://joinfivedegrees.com) — Platform for Europe's Top Startup Talent Network
+Architected and built the complete digital infrastructure for Europe's most curated startup-talent matching company. Delivered end-to-end, from intelligent automation pipelines to a multi-role full-stack platform supporting founders, investors, and talent at scale.
 
 ---
 
-### ⚖️ [Conformitas Legal](https://github.com/paulstephan) — EU AI Act Compliance Platform
-An AI-powered compliance platform helping companies, schools, and public institutions navigate the EU AI Act. Conformitas automates regulatory gap analysis and generates actionable compliance roadmaps — reducing legal overhead for organizations at every scale.
+### ⚖️ [Conformitas Legal](https://conformitas.legal) — EU AI Act Compliance Platform
+An AI-powered compliance platform helping companies, schools, and public institutions navigate the EU AI Act. Conformitas automates regulatory gap analysis and generates actionable compliance roadmaps, reducing legal overhead for organizations at every scale.
 
 ---
 
-## 🔧 Additional Projects
+## 🔧 More Work
 
-| Project | Description |
-|---|---|
-| 🏠 **Student Living Platform** | Full-stack housing platform with community chat, banking API integrations for automated rent tracking, tenant lifecycle management, and SEO-optimized public site |
-| 🎵 **OpenSing** | iOS & Android vocal training app — upload a song, get real-time pitch accuracy feedback, structured practice sessions, and progress tracking |
+Beyond the above, I have built a student housing platform with banking integrations and tenant management, a mobile vocal training app with real-time pitch detection, an AI-powered platform for exclusive communities to discover more about themselves, real estate marketing websites, marketing automations, and a lot more...
 
 ---
 
@@ -61,23 +56,19 @@ An AI-powered compliance platform helping companies, schools, and public institu
 
 | Area | Detail |
 |---|---|
-| 🎓 Education | Business Administration · Computer Science |
-| 💼 Experience | Founder · Startup Ecosystem · Full-Stack Engineer |
+| 🎓 Education | Business Administration at University of Mannheim · Computer Science at TU Berlin |
+| 💼 Experience | Founder · Startups · Venture Capital · Full-Stack Engineer |
 | 🌍 Based in | Berlin, Germany |
 | 🗣️ Languages | English · German · French |
 
-I've founded startups and built production software — which means I understand what it takes to go from idea to a scaled product. I'm always curious about the next big thing.
+I've founded startups and built production software, which means I understand what it takes to go from idea to a scaled product. I'm always curious about the next big thing.
 
 ---
 
 ## 📬 Let's Connect
 
-If you're building something ambitious — or need someone who can own both the product vision and the technical execution — let's talk.
+If you're building something ambitious or need someone who can own both the product vision and the technical execution, let's talk.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Paul_Stephan-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-stephan-4ab77019a/)
-
----
-
-<p align="center">
-  <i>Open to freelance projects, co-founder conversations, and anything ambitious.</i>
-</p>
+<a href="https://www.linkedin.com/in/paul-stephan-4ab77019a/">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+</a>
