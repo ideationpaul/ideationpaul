@@ -1,4 +1,4 @@
-# Hi, I'm Paul Stephan 👋
+# Hi, I'm Paul 👋
 
 **Full-Stack Developer · Founder · Builder**
 
