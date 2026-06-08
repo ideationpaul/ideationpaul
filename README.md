@@ -42,7 +42,7 @@ Architected and built the complete digital infrastructure for Europe's most cura
 ---
 
 ### ⚖️ [Conformitas Legal](https://conformitas.legal) — EU AI Act Compliance Platform
-An AI-powered compliance platform helping companies, schools, and public institutions navigate the EU AI Act. Conformitas automates regulatory gap analysis and generates actionable compliance roadmaps, reducing legal overhead for organizations at every scale.
+An AI literacy training platform helping companies and public institutions meet EU AI Act requirements. Conformitas delivers role-specific compliance courses for employees, with built-in progress tracking, certification, and audit-ready reporting.
 
 ---
 
