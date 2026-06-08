@@ -1,4 +1,4 @@
-readme = """# Hi, I'm Paul 👋
+# Hi, I'm Paul Stephan 👋
 
 **Full-Stack Developer · Founder · Builder**
 
@@ -81,9 +81,3 @@ If you're building something ambitious — or need someone who can own both the 
 <p align="center">
   <i>Open to freelance projects, co-founder conversations, and anything ambitious.</i>
 </p>
-"""
-
-with open("/home/user/paul_stephan_github_readme.md", "w") as f:
-    f.write(readme)
-
-print("Done")
