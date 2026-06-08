@@ -2,7 +2,7 @@
 
 **Full-Stack Developer · Founder · Builder**
 
-I bridge the gap between business strategy and technical execution, from zero-to-one product builds to scalable full-stack platforms. With a background in Business Administration (University of Mannheim) and Computer Science (TU Berlin), and hands-on experience in startups and venture capital, I don't just write code. I build things that matter.
+I bridge the gap between business strategy and technical execution, from zero-to-one product builds to scalable full-stack platforms. With a background in Business Administration and Computer Science, and hands-on experience in startups and venture capital, I don't just write code. I build things that matter.
 
 ---
 
@@ -48,7 +48,7 @@ An AI-powered compliance platform helping companies, schools, and public institu
 
 ## 🔧 More Work
 
-Beyond the above, I have built a student housing platform with banking integrations and tenant management, a mobile vocal training app with real-time pitch detection, an AI-powered platform for exclusive communities to discover more about themselves, real estate marketing websites, marketing automations, and a lot more...
+Beyond the above, I have built a student housing platform with banking integrations and tenant management, a mobile vocal training app with real-time pitch detection as an open source project, an AI-powered platform for an exclusive community to discover more about themselves, marketing automations, real estate websites, and a lot more...
 
 ---
 
@@ -57,11 +57,11 @@ Beyond the above, I have built a student housing platform with banking integrati
 | Area | Detail |
 |---|---|
 | 🎓 Education | Business Administration at University of Mannheim · Computer Science at TU Berlin |
-| 💼 Experience | Founder · Startups · Venture Capital · Full-Stack Engineer |
+| 💼 Experience | Startups · Venture Capital · Full-Stack Engineer |
 | 🌍 Based in | Berlin, Germany |
 | 🗣️ Languages | English · German · French |
 
-I've founded startups and built production software, which means I understand what it takes to go from idea to a scaled product. I'm always curious about the next big thing.
+I am a Founder who built his own software, which means I understand what it takes to go from idea to a scaled product. I'm always curious about the next big thing.
 
 ---
 
